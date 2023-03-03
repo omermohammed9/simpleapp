@@ -5,7 +5,7 @@ In this assignment, you will create a simple web application using PHP and HTML.
 
 Here are the specific requirements for your index.php file
 Your name must be included in the <title> tag as 'Firstname Lastname PHP'
-There should be an '<h1>' tag with your name and the text 'Firstname Lastname PHP'
-You should use a '<pre>' tag to create ASCII art of the first letter of your name, with four spaces indented from the left margin
+There should be an < h1 > tag with your name and the text 'Firstname Lastname PHP'
+You should use a < pre > tag to create ASCII art of the first letter of your name, with four spaces indented from the left margin
 Your code should use PHP to compute the SHA256 hash of your name and print it out like the sample application provided below. 
 You must compute this in your index.php file.
